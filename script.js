@@ -23,14 +23,14 @@ const firebaseConfig = {
     {
       id: 2,
       name: "წითელი სარბენი ფეხსაცმელი",
-      image: "shoe-image-2.jpg",
-      sizes: [39, 40, 41, 42, 45]
+      image: "https://i.imgur.com/FqVmEFi.jpeg",
+      sizes: [40, 41, 42, 43, 44]
     },
     {
       id: 3,
       name: "შავი ოფიციალური ფეხსაცმელი",
-      image: "shoe-image-3.jpg",
-      sizes: [41, 42, 43, 44, 45]
+      image: "https://i.imgur.com/gnYMv05.jpeg",
+      sizes: [40, 41, 42, 43, 44]
     }
   ];
   
