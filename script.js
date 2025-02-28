@@ -31,121 +31,121 @@ const firebaseConfig = {
       name: "შავი ოფიციალური ფეხსაცმელი",
       image: "https://i.imgur.com/gnYMv05.jpeg",
       sizes: [40, 41, 42, 43, 44]
-    }
+    },
       {
       id: 4,
       name: "შავი ოფიციალური ფეხსაცმელი",
       image: "https://i.imgur.com/gnYMv05.jpeg",
       sizes: [40, 41, 42, 43, 44]
-    }
+    },
 {
       id: 5,
       name: "შავი ოფიციალური ფეხსაცმელი",
       image: "https://i.imgur.com/gnYMv05.jpeg",
       sizes: [40, 41, 42, 43, 44]
-    }
+    },
 {
       id: 6,
       name: "შავი ოფიციალური ფეხსაცმელი",
       image: "https://i.imgur.com/gnYMv05.jpeg",
       sizes: [40, 41, 42, 43, 44]
-    }
+    },
 {
       id: 7,
       name: "შავი ოფიციალური ფეხსაცმელი",
       image: "https://i.imgur.com/gnYMv05.jpeg",
       sizes: [40, 41, 42, 43, 44]
-    }
+    },
 {
       id: 8,
       name: "შავი ოფიციალური ფეხსაცმელი",
       image: "https://i.imgur.com/gnYMv05.jpeg",
       sizes: [40, 41, 42, 43, 44]
-    }
+    },
 {
       id: 9,
       name: "შავი ოფიციალური ფეხსაცმელი",
       image: "https://i.imgur.com/gnYMv05.jpeg",
       sizes: [40, 41, 42, 43, 44]
-    }
+    },
 {
       id: 10,
       name: "შავი ოფიციალური ფეხსაცმელი",
       image: "https://i.imgur.com/gnYMv05.jpeg",
       sizes: [40, 41, 42, 43, 44]
-    }
+    },
 {
       id: 11,
       name: "შავი ოფიციალური ფეხსაცმელი",
       image: "https://i.imgur.com/gnYMv05.jpeg",
       sizes: [40, 41, 42, 43, 44]
-    }
+    },
 {
       id: 12,
       name: "შავი ოფიციალური ფეხსაცმელი",
       image: "https://i.imgur.com/gnYMv05.jpeg",
       sizes: [40, 41, 42, 43, 44]
-    }
+    },
 {
       id: 13,
       name: "შავი ოფიციალური ფეხსაცმელი",
       image: "https://i.imgur.com/gnYMv05.jpeg",
       sizes: [40, 41, 42, 43, 44]
-    }
+    },
 {
       id: 14,
       name: "შავი ოფიციალური ფეხსაცმელი",
       image: "https://i.imgur.com/gnYMv05.jpeg",
       sizes: [40, 41, 42, 43, 44]
-    }
+    },
 {
       id: 15,
       name: "შავი ოფიციალური ფეხსაცმელი",
       image: "https://i.imgur.com/gnYMv05.jpeg",
       sizes: [40, 41, 42, 43, 44]
-    }
+    },
 {
       id: 16,
       name: "შავი ოფიციალური ფეხსაცმელი",
       image: "https://i.imgur.com/gnYMv05.jpeg",
       sizes: [40, 41, 42, 43, 44]
-    }
+    },
 {
       id: 17,
       name: "შავი ოფიციალური ფეხსაცმელი",
       image: "https://i.imgur.com/gnYMv05.jpeg",
       sizes: [40, 41, 42, 43, 44]
-    }
+    },
 {
       id: 18,
       name: "შავი ოფიციალური ფეხსაცმელი",
       image: "https://i.imgur.com/gnYMv05.jpeg",
       sizes: [40, 41, 42, 43, 44]
-    }
+    },
 {
       id: 19,
       name: "შავი ოფიციალური ფეხსაცმელი",
       image: "https://i.imgur.com/gnYMv05.jpeg",
       sizes: [40, 41, 42, 43, 44]
-    }
+    },
 {
       id: 20,
       name: "შავი ოფიციალური ფეხსაცმელი",
       image: "https://i.imgur.com/gnYMv05.jpeg",
       sizes: [40, 41, 42, 43, 44]
-    }
+    },
 {
       id: 21,
       name: "შავი ოფიციალური ფეხსაცმელი",
       image: "https://i.imgur.com/gnYMv05.jpeg",
       sizes: [40, 41, 42, 43, 44]
-    }
+    },
 {
       id: 22,
       name: "შავი ოფიციალური ფეხსაცმელი",
       image: "https://i.imgur.com/gnYMv05.jpeg",
       sizes: [40, 41, 42, 43, 44]
-    }
+    },
 
   ];
   
