@@ -37,6 +37,24 @@ const firebaseConfig = {
       name: "შავი ოფიციალური ფეხსაცმელი1",
       image: "https://i.imgur.com/gnYMv05.jpeg",
       sizes: [40, 41, 42, 43, 44]
+    },
+      {
+      id: 5,
+      name: "შავი ოფიციალური ფეხსაცმელი2",
+      image: "https://i.imgur.com/gnYMv05.jpeg",
+      sizes: [40, 41, 42, 43, 44]
+    },
+      {
+      id: 6,
+      name: "შავი ოფიციალური ფეხსაცმელი3",
+      image: "https://i.imgur.com/gnYMv05.jpeg",
+      sizes: [40, 41, 42, 43, 44]
+    },
+      {
+      id: 7,
+      name: "შავი ოფიციალური ფეხსაცმელი4",
+      image: "https://i.imgur.com/gnYMv05.jpeg",
+      sizes: [40, 41, 42, 43, 44]
     }
   ];
   
