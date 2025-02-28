@@ -24,106 +24,106 @@ const shoes = [
     {
         id: 2,
         name: "წითელი სარბენი ფეხსაცმელი",
-        image: "shoe-image-2.jpg",
-        sizes: [39, 40, 41, 42, 45]
+        image: "https://i.imgur.com/gnYMv05.jpeg",
+        sizes: [40, 41, 42, 43, 44]
     },
     {
         id: 3,
         name: "შავი ოფიციალური ფეხსაცმელი",
-        image: "shoe-image-3.jpg", 
-        sizes: [41, 42, 43, 44, 45]
+        image: "https://i.imgur.com/FqVmEFi.jpeg", 
+        sizes: [40, 41, 42, 43, 44]
     },
 
     // New shoes 4-25
     {
         id: 4,
         name: "მწვანე კაზუალური ფეხსაცმელი",
-        image: "https://picsum.photos/200/300?random=1",
-        sizes: [38, 39, 40, 41, 42]
+        image: "https://i.imgur.com/02HvM6l.jpeg",
+        sizes: [40, 41, 42, 43, 44]
     },
     {
         id: 5,
         name: "ვარდისფერი სპორტული სნიკერსი",
-        image: "https://picsum.photos/200/300?random=2",
-        sizes: [36, 37, 38, 39, 40]
+        image: "https://i.imgur.com/R9PVRFa.jpeg",
+        sizes: [40, 41, 42, 43, 44]
     },
     {
         id: 6,
         name: "ნაცრისფერი უნისექსი ბოტასი",
-        image: "https://picsum.photos/200/300?random=3",
-        sizes: [39, 40, 41, 42, 43]
+        image: "https://i.imgur.com/HGfRy6l.jpeg",
+        sizes: [40, 41, 42, 43, 44]
     },
     {
         id: 7,
         name: "ოქროსფერი ელეგანტური სანდლები",
-        image: "https://picsum.photos/200/300?random=4",
-        sizes: [37, 38, 39, 40, 41]
+        image: "https://i.imgur.com/ZAmbxk7.jpeg",
+        sizes: [40, 41, 42, 43, 44]
     },
     {
         id: 8,
         name: "თეთრი ბასკეტბოლის ფეხსაცმელი",
-        image: "https://picsum.photos/200/300?random=5",
-        sizes: [42, 43, 44, 45, 46]
+        image: "https://i.imgur.com/JffcsjW.jpeg",
+        sizes: [40, 41, 42, 43, 44]
     },
     {
         id: 9,
         name: "ყავისფერი ტურისტული ბოტინი",
-        image: "https://picsum.photos/200/300?random=6",
+        image: "https://i.imgur.com/0yxrVyM.jpeg",
         sizes: [40, 41, 42, 43, 44]
     },
     {
         id: 10,
         name: "მუქი ლურჯი სკეიტბორდის ფეხსაცმელი",
-        image: "https://picsum.photos/200/300?random=7",
-        sizes: [39, 40, 41, 42, 43]
+        image: "https://i.imgur.com/N0De1aL.jpeg",
+        sizes: [40, 41, 42, 43, 44]
     },
     {
         id: 11,
         name: "ბროწეულისფერი რანერები",
-        image: "https://picsum.photos/200/300?random=8",
-        sizes: [36, 37, 38, 39, 40]
+        image: "https://i.imgur.com/Ay0nCrq.jpeg",
+        sizes: [40, 41, 42, 43, 44]
     },
     {
         id: 12,
         name: "მოლურჯო ზამთრის ბოტასი",
-        image: "https://picsum.photos/200/300?random=9",
+        image: "https://i.imgur.com/cj5Qa3o.jpeg",
         sizes: [41, 42, 43, 44, 45]
     },
     {
         id: 13,
         name: "შოკოლადისფერი დერიბი",
-        image: "https://picsum.photos/200/300?random=10",
-        sizes: [38, 39, 40, 41, 42]
+        image: "https://i.imgur.com/xwE24LG.jpeg",
+        sizes: [40, 41, 42, 43, 44]
     },
     {
         id: 14,
         name: "ვერცხლისფერი ფიტნესის ფეხსაცმელი",
-        image: "https://picsum.photos/200/300?random=11",
-        sizes: [39, 40, 41, 42, 43]
+        image: "https://i.imgur.com/Z894NvN.jpeg",
+        sizes: [40, 41, 42, 43, 44]
     },
     {
         id: 15,
         name: "ლილასფერი აერობიკის ფეხსაცმელი",
-        image: "https://picsum.photos/200/300?random=12",
-        sizes: [37, 38, 39, 40, 41]
+        image: "https://i.imgur.com/8F5jiGz.jpeg",
+        sizes: [40, 41, 42, 43, 44]
     },
     {
         id: 16,
         name: "კამუფფერი სამხედრო სტილის ბოტინი",
-        image: "https://picsum.photos/200/300?random=13",
-        sizes: [42, 43, 44, 45, 46]
+        image: "https://i.imgur.com/3roSF5U.jpeg",
+        sizes: [40, 41, 42, 43, 44]
     },
     {
         id: 17,
         name: "ნარინჯისფერი მთათამაშხა ფეხსაცმელი",
-        image: "https://picsum.photos/200/300?random=14",
+        image: "https://i.imgur.com/SgS2HpW.jpeg",
         sizes: [40, 41, 42, 43, 44]
     },
     {
         id: 18,
         name: "მოვარდისფრო ფუტბოლის ფეხსაცმელი",
-        image: "https://picsum.photos/200/300?random=15",
-        sizes: [39, 40, 41, 42, 43]
+        image: "https://i.imgur.com/tLOS4Xb.jpeg",
+        sizes: [40, 41, 42, 43, 44]
     },
     {
         id: 19,
