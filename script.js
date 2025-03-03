@@ -134,7 +134,7 @@ const shoes = [
     {
         id: 20,
         name: "მუქი მწვანე ტრეკინგის ფეხსაცმელი",
-        image: "https://i.imgur.com/6nKyWr2.jpeg",
+        image: "",
         sizes: [41, 42, 43, 44, 45]
     },
     {
