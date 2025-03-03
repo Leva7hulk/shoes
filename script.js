@@ -128,8 +128,8 @@ const shoes = [
     {
         id: 19,
         name: "ზეთისხილისფერი კლასიკური ლოფერები",
-        image: "https://picsum.photos/200/300?random=16",
-        sizes: [36, 37, 38, 39, 40]
+        image: "https://i.imgur.com/6nKyWr2.jpeg",
+        sizes: [40, 41, 42, 43, 44]
     },
     {
         id: 20,
